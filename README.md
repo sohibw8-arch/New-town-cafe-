@@ -230,7 +230,7 @@ msg+=`• ${c.name} x${c.qty} = ₹${c.price*c.qty}%0A`;
 
 msg+=`%0A💰 Total: ₹${totalSpan.innerText}`;
 
-window.open(`https://wa.me/91XXXXXXXXXX?text=${msg}`,"_blank");
+window.open(`https://wa.me/7909325564?text=${msg}`,"_blank");
 }
 
 const menu=document.getElementById("menu");
